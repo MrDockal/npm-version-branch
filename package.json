@@ -1,0 +1,15 @@
+{
+  "name": "npm-version-branch",
+  "version": "1.0.0",
+  "description": "",
+  "main": " ",
+  "bin": {
+    "npm-version-branch": "./npm-version-branch.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MrDockal/npm-version-branch.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
